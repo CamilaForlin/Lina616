@@ -1,9 +1,10 @@
+<div align=center>
 ## Hi there 👋
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Lina616&theme=dracula&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
-  
+</div>
   <!--
 **Lina616/Lina616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

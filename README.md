@@ -5,9 +5,10 @@
 <p>I'm a programmer from Brazil.
 I have experience with projects development and with lowcode platforms such as <strong>Helpdesk Automate</strong> and <strong>Outsystems</strong> but I know how to program in <strong>HTML</strong> and <strong>CSS</strong>.
 I am improving my knowledge of <strong>JavaScript</strong> and started my studies with <strong>Java</strong>.<p>
-<br>
-<p>Furthermore, I am very creative, have vast knowledge about human behavior and strong logical reasoning skills.</p> 
 
+<p>Furthermore, I am very creative, have vast knowledge about human behavior and strong logical reasoning skills.</p> 
+<br>
+<br>
 <h4>You can follow my progress via the badge below but feel free to explore!</h4>
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=Lina616&theme=dracula&hide_border=true&mode=weekly)](https://git.io/streak-stats)

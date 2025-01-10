@@ -1,43 +1,33 @@
-<div align=center>
-<h1>Hi! Be welcome to my profile!</h1>
+<div align="center">
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> 📊 GitHub Stats</h2>
+<details open><summary><b>GitHub Readme Stats</b></summary><img align="center" src="https://github-readme-stats.vercel.app/api?username=CamilaForlin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&number_format=long" alt="CamilaForlin's GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaForlin&layout=compact&theme=buefy&hide_border=true&langs_count=20"/></details>
+<details open><summary><b>GitHub Trophy Stats</b></summary>
+</div>
 <br>
-<br>
-<p>I'm a programmer from Brazil.
-I have experience with projects development and with lowcode platforms such as <strong>Helpdesk Automate</strong> and <strong>Outsystems</strong> but I know how to program in <strong>HTML</strong> and <strong>CSS</strong>.
-I am improving my knowledge of <strong>JavaScript</strong> and started my studies with <strong>Java</strong>.<p>
 
-<p>Furthermore, I am very creative, have vast knowledge about human behavior and strong logical reasoning skills.</p> 
+<p align="center">
+  <a href="https://github.com/CamilaForlin"><img src="https://count.getloli.com/get/@:CamilaForlin?theme=rule34" width="80%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CamilaForlin&theme=juicyfresh" /><a>
+</p>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="CSS" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
+</div>
 <br>
-<br>
-<h4>You can follow my progress via the badge below but feel free to explore!</h4>
+
+<div align="center">
+  <h4>📫 Connect with Me</h4>
+  <a href="https://github.com/CamilaForlin" target="_blank">GitHub</a> | 
+  <a href="mailto:camilaforlin616@gmail.com">Email</a>
+</div>
+
+![GitHub stars](https://img.shields.io/github/stars/CamilaForlin?tab=stars.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=Lina616&theme=dracula&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-
-</div>
-<br>
-<br>
-
-<div align=center>
-  <h5>if you prefer to reach me,click here:</h5>
-  <a href="mailto:camilaforlin616@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a ><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
-  <a ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <br>
-  <br>
-<p>✨Good wishes!See you!✨</p>
-</div>
-
-  <!--
-**Lina616/Lina616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

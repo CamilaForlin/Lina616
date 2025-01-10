@@ -15,5 +15,7 @@
 </p>
 
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,mysql" />
+  </a>
 </p>

@@ -13,22 +13,5 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CamilaForlin&theme=juicyfresh" /><a>
 </p>
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql)](https://skillicons.dev)
-<div align="center">
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql)](https://skillicons.dev)
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=all" alt="HTML" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="CSS" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
-</div>
-<br>
-
-<div align="center">
-  <h4>📫 Connect with Me</h4>
-  <a href="https://github.com/CamilaForlin" target="_blank">GitHub</a> | 
-  <a href="mailto:camilaforlin616@gmail.com">Email</a>
-</div>
-
-![GitHub stars](https://img.shields.io/github/stars/CamilaForlin?tab=stars.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-  

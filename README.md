@@ -16,7 +16,7 @@
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="50" height="50" />
+  <img src="(https://skillicons.dev/icons?i=all)" alt="HTML" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="CSS" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
 </div>

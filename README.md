@@ -15,6 +15,7 @@
 </p>
 
 <div align="center">
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql)](https://skillicons.dev)
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=all" alt="HTML" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="CSS" width="50" height="50" />

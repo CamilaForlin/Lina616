@@ -14,6 +14,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=CamilaForlin&theme=juicyfresh" /><a>
 </p>
 
-<div align="center">
+<p align="center">
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql)](https://skillicons.dev)
-</div>
+</p>

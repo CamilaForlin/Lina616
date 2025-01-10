@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CamilaForlin&theme=juicyfresh" /><a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <div align="center">
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql)](https://skillicons.dev)
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
